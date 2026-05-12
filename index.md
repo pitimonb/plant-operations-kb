@@ -1,17 +1,6 @@
 # Plant Operations Knowledge Base
 
-This knowledge base contains reference documents for power plant operation, GADS classification, heat rate analysis, troubleshooting, and performance diagnostics.
+## Sections
 
----
-
-# Heat Rate
-
-- [Heat Rate Guide](HeatRate_Improvement.pdf)
-  Topic: Heat Rate Improvement Reference Manual
-
-# GADS
-
-- [GADS Definitions Manual](GADS_Definition.pdf)  
-  Topics: official definitions, terminology, outage categories, reporting standards.
-
----
+- [Heat Rate](heatrate/)
+- [GADS](gads/)
