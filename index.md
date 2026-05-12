@@ -11,7 +11,7 @@ This knowledge base contains reference documents for power plant operation, GADS
 
 # GADS
 
-- [GADS Definitions Manual](GADSDefinition.pdf)  
+- [GADS Definitions Manual](GADS_Definition.pdf)  
   Topics: official definitions, terminology, outage categories, reporting standards.
 
 ---
