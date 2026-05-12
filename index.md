@@ -2,4 +2,4 @@
 
 ## Documents
 
-- [Heat Rate Guide](Heat Rate Improvement.pdf)
+- [Heat Rate Guide](HeatRate_Improvement.pdf)
