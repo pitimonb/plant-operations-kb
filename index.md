@@ -1,7 +1,5 @@
 # Plant Operations Knowledge Base
 
-## Sections
+## Documents
 
-- [GADS](gads/)
-- [Heat Rate](heatrate/)
-- [PI System](pi/)
+- [Heat Rate Guide](Heat Rate Improvement.pdf)
